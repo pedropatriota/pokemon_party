@@ -1,8 +1,6 @@
 import { useState, useEffect } from 'react';
 import './App.css';
 
-// fnevarez@tango.io
-
 function App() {
 
   const [pokemon, setPokemon] = useState([])
